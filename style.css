@@ -1,0 +1,28 @@
+.blue {
+    color: blue;
+}
+
+.center {
+    text-align: center;
+}
+
+.aqua {
+    background-color: aqua;
+    border-radius: 20px;
+    
+}
+
+.black {
+    text-align: center;
+}
+
+.red {
+    border-radius: 20px;
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+    border-radius: 10px;
+    text-align: center;
+}
